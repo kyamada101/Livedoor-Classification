@@ -19,5 +19,5 @@ tsvファイルを読み込んで、BERTserver経由であらかじめEmbedding�
 トークナイザー定義⇒Field・vocab定義⇒モデル定義⇒計算を回す⇒グラフを表示・テストデータで検証
 
 ## livedoor_sentencebase.ipynb
-文トークナイズverの分類モデル。モデルの形は1層LSTM⇒3層FFN(BatchNormあり)。
+文トークナイズverの分類モデル。モデルの形は1層LSTM⇒3層FFN(BatchNormあり)。  
 dataset/dataloaderの定義⇒モデルの定義⇒計算を回す⇒グラフを表示・テストデータで検証
